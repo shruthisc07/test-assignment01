@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestAssigment Automation]">
+  <test name="TestAssignment Automation tests(failed)">
+    <classes>
+      <class name="com.testassignment.driverscript.DriverScript">
+        <methods>
+          <include name="startAutomationSuite"/>
+          <include name="executeTestScenarios"/>
+        </methods>
+      </class> <!-- com.testassignment.driverscript.DriverScript -->
+    </classes>
+  </test> <!-- TestAssignment Automation tests(failed) -->
+</suite> <!-- Failed suite [TestAssigment Automation] -->
